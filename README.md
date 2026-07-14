@@ -120,8 +120,9 @@ python color_detector.py
 
 ## 📚 References
 
-- OpenCV Documentation
-- XKCD Color Survey Database
+- OpenCV Documentation: https://docs.opencv.org/
+- XKCD Color Survey Database: https://xkcd.com/color/rgb/
+- XKCD Color Dataset: https://github.com/dariusk/corpora/tree/master/data/colors
 
 ---
 
