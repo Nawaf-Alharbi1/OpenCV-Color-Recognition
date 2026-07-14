@@ -72,14 +72,6 @@ OpenCV-Color-Recognition
 
 ---
 
-## 🎯 Color Database
-
-This project uses the XKCD color survey database, which contains more than **950 unique color names**.
-
-If the database cannot be downloaded (e.g., no internet connection), the application automatically switches to a built-in backup database containing the most common colors.
-
----
-
 ## ▶️ How to Run
 
 1. Install the required library:
